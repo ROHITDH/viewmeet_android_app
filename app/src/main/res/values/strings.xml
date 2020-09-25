@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VIEWmeet</string>
+    <string name="welcome_messages">Enter meeting URL</string>
+</resources>
